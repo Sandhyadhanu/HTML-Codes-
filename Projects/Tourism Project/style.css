@@ -1,0 +1,11 @@
+.picture{
+    background-image: url("https://ik.imagekit.io/sandhyadhanu/Tourism%20Project/bd2cc078-ef98-4b3e-ba42-703fa765f3a4.jpg");
+    height: 700px;
+    width: 500px;
+    background-size: cover;
+}
+.taj{
+    height:500px;
+    width:400px;
+    background-image: url("https://ik.imagekit.io/sandhyadhanu/Tourism%20Project/taj-mahal-agra-india-TAJ0217-9eab8f20d11d4391901867ed1ce222b8.jpg");
+}
